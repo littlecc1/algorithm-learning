@@ -7,7 +7,7 @@
 
 例1-1  斐波那契数列
 
-斐波那契额递推公式：![斐波那契额递推公式](https://github.com/littlecc1/algorithm-learning/blob/master/assets/%E6%96%90%E6%B3%A2%E9%82%A3%E5%A5%91%E9%80%92%E6%8E%A8%E5%85%AC%E5%BC%8F.png)
+![斐波那契额递推公式](https://github.com/littlecc1/algorithm-learning/blob/master/assets/%E6%96%90%E6%B3%A2%E9%82%A3%E5%A5%91%E9%80%92%E6%8E%A8%E5%85%AC%E5%BC%8F.png)
 
 例1-2  汉诺塔问题（tower of Hanoi）
 
