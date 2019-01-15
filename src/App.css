@@ -1,0 +1,19 @@
+.App-echarts {
+  display: flex;
+  flex-flow: row nowrap;
+  justify-content: space-around;
+}
+.App-hanoi {
+  display: flex;
+  flex-flow: row nowrap;
+  justify-content: flex-start;
+}
+.App-p {
+  display: block;
+  padding-right: 20px;
+  font-size: 21px;
+}
+@keyframes App-logo-spin {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+}
