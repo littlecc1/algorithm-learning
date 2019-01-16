@@ -27,13 +27,13 @@ n为4的问题解空间树
 
 [核心算法传送门](https://github.com/littlecc1/algorithm-learning/blob/master/src/hanoiAlgorithm.js)
 
-[实现代码传送门](https://github.com/littlecc1/algorithm-learning/blob/master/src/hanoiAlgorithm.js)
+[实现代码传送门](https://github.com/littlecc1/algorithm-learning/blob/master/src/hanoi.js)
 
 ## 2 归纳证明
 
  证明：（归纳法证明）
 
-[证明程序传送门](https://github.com/littlecc1/algorithm-learning/blob/master/src/hanoiAlgorithm.js)
+[证明程序传送门](https://github.com/littlecc1/algorithm-learning/blob/master/src/toBeProve.js)
 
  当n是1位数时，程序显然是正确的。
 
@@ -51,8 +51,8 @@ n为4的问题解空间树
 
  在一个元素集合中寻找最大元素和最小元素的问题，即在互不相同的n个数{x1, x2, …, xn}中，找出最大和最小的数。
 
- [核心算法传送门](https://github.com/littlecc1/algorithm-learning/blob/master/src/hanoiAlgorithm.js)
- 
+ [核心算法传送门](https://github.com/littlecc1/algorithm-learning/blob/master/src/maxOrMin.js)
+
 
 
 
