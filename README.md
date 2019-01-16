@@ -9,9 +9,11 @@
 
 ![斐波那契额递推公式](https://github.com/littlecc1/algorithm-learning/blob/master/assets/fib_recursive.png)
 
-![代码链接](https://github.com/littlecc1/algorithm-learning/blob/master/src/Fib.js)
+[核心代码传送门](https://github.com/littlecc1/algorithm-learning/blob/master/src/Fib.js)
 
 ![解空间树](https://github.com/littlecc1/algorithm-learning/blob/master/assets/fib_tree.png)
+
+n为4的问题解空间树
 
 #### 例1-2  汉诺塔问题（tower of Hanoi）
 
