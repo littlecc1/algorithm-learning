@@ -5,11 +5,15 @@
 递归（recursive）定义是一种直接或间接引用自身的定义方法。
 一个合法的递归定义包括两部分：基础情况（base case）和递归部分。
 
-例1-1  斐波那契数列
+#### 例1-1  斐波那契数列
 
-![斐波那契额递推公式](https://github.com/littlecc1/algorithm-learning/blob/master/assets/%E6%96%90%E6%B3%A2%E9%82%A3%E5%A5%91%E9%80%92%E6%8E%A8%E5%85%AC%E5%BC%8F.png)
+![斐波那契额递推公式](https://github.com/littlecc1/algorithm-learning/blob/master/assets/fib_recursive.png)
 
-例1-2  汉诺塔问题（tower of Hanoi）
+![代码链接](https://github.com/littlecc1/algorithm-learning/blob/master/src/Fib.js)
+
+![解空间树](https://github.com/littlecc1/algorithm-learning/blob/master/assets/fib_tree.png)
+
+#### 例1-2  汉诺塔问题（tower of Hanoi）
 
 假定有三个塔座：X，Y，Z，在塔座X上有n个直径大小各不相同，按圆盘大小从小到大编号为1，2，…，n的圆盘。现要求将X塔座上n个圆盘移到塔座Y上，并仍按同样顺序叠排。
 圆盘移动时必须遵循下列规则：
