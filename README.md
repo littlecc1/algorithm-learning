@@ -58,7 +58,23 @@ n为4的问题解空间树
 
  [核心算法传送门](https://github.com/littlecc1/algorithm-learning/blob/master/src/maxOrMin.js)
 
+ #### 例2-2 二分搜索
 
+ 在有序表（已按关键字值非减排序）中搜索给定元素的问题。
+
+ ![对半搜索二叉判定树](https://github.com/littlecc1/algorithm-learning/blob/master/assets/binarySearch.png)
+
+ 10个元素的对半搜索二叉判定树
+
+ [核心算法传送门](https://github.com/littlecc1/algorithm-learning/blob/master/src/binarySearch.js)
+
+ #### 例2-3 排序问题
+
+ 合并排序：把两个或多个有序序列合并成一个有序序列。最基本的合并排序算法——两路合并排序。
+
+ 两路合并排序：把两个有序序列合并成一个有序序列。
+
+ [核心算法传送门](https://github.com/littlecc1/algorithm-learning/blob/master/src/maxOrMin.js)
 
 
 
